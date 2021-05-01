@@ -19,39 +19,32 @@
         
         </div>
 
-        <!-- <div class="hero_wrapper">
-            <div class="hero_left">
-                <h2 id="headline">Move around<br>town the<br><span>Fetch</span>way</h2>
-                <p id="header_caption">Sit amet delius consectetur ignaet glorias sodiot<br>sophia cerebellus quantum tsadiqim.</p>
-                <button class="call-to-action"><a href="#section1">Download the app</a></button>
-            </div>
-            <div class="hero_main">
-                <div class="hero">
-                    <img src="cars/Benz c-class 2022_front.png" alt="hero-visual1">
-                </div>
-                
-            </div>
-            
-        </div> -->
+        <div class="hero_riding">
+
+            <h1 class="headline">Fetch</h1>
+            <p class="sub_headline">Your ride or drive 24/7 partner<br>
+                for new exciting urban adventures<br>alone or with friends.</p>
+            <img src="cars/Corolla_profile.png" alt="riding_car">
+        </div>
         
     </header>
 
 <!-- Hero-new ====================== -->
+            
 
-    <div class="content">
+    <!-- <div class="content">
         <div class="tagline">Move around town with</div>
-        <!-- <div class="pages"><span>2</span>/21</div> -->
         <div class="title">Fetch</div>
         <div class="sign-up"><a href="#">Sign up</a></div>
         <div class="desc">
             <p>Your ride or drive</p>
             <p>24/7 partner for new exciting urban adventures, alone
-                or with friends.</p>
+                    or with friends.</p>
         </div>
     </div>
     <div class="car">
         <img src="cars/Benz_silver-profile.png" alt="benz_profile">
-    </div>
+    </div> -->
     
 
 <!-- Subhead section #1 -->
@@ -198,29 +191,6 @@
             <span>Confidentiality</span><span>Terms & conditions</span></p>
     </footer>
 
-    <!-- -<script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"
-         integrity="sha256-lPE3wjN2a7ABWHbGz7+MKBJaykyzqCbU96BJWjio86U="
-         crossorigin="anonymous"></script>
-    
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/108/three.min.js"
-         integrity="sha256-3mBEX8I0uMLF7+AUjJeTCelosuorzYpqwBMBPDTyQqY="
-         crossorigin="anonymous"></script>
-        
-        <script src="./hover-effect.umd.js"></script>
-    
-        <script>
-            new hoverEffect({
-                parent: document.querySelector('.distortion'),
-                intensity: 0.2,
-                image1: './cars/Benz c-class 2022_front.png',
-                image2: './cars/Benz C-class_open doors.png',
-                displacementImage: './cars/Benz c-class 2022_front.png',
-                imagesRatio: 612 / 408
-            })
-        </script>
-    
-    </script> -->
 
 </body>
 
